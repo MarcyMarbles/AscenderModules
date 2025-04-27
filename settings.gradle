@@ -1,1 +1,11 @@
 rootProject.name = 'Ascender'
+
+include 'ascender-common'
+include 'ascender-gateway'
+include 'ascender-auth-service'
+include 'ascender-games-service'
+include 'ascender-player-service'
+include 'ascender-team-service'
+include 'ascender-tournament-service'
+include 'ascender-scrim-service'
+include 'ascender-eureka-server'
